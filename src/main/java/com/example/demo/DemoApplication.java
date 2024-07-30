@@ -7,9 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		//#2-test edit
+		//#1 -TEST EDIT
 		SpringApplication.run(DemoApplication.class, args);
-		//#4-test2-re-edit
+		//#3 - TEST-RE-EDIT
 	}
 
 }
