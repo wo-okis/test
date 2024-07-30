@@ -7,12 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
-		//#1 -TEST EDIT
-=======
 		//#2-test edit
->>>>>>> origin/master
 		SpringApplication.run(DemoApplication.class, args);
+		//#4-test2-re-edit
 	}
 
 }
