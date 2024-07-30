@@ -8,7 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		//#Test1-by-add
-		SpringApplication.run(DemoApplication.class, args);
+    //#test2-by-ad
 	}
 
 }
