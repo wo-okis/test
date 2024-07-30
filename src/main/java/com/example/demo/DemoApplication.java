@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		//#test2-by-ad
-		SpringApplication.run(DemoApplication.class, args);
+		//#Test1-by-add
+    //#test2-by-ad
 	}
 
 }
